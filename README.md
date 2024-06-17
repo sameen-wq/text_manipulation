@@ -1,2 +1,2 @@
-# textmining
-#text mining exercise
+# text manipulation with REgEX
+#xerciseWORK
